@@ -1,0 +1,17 @@
+
+
+
+train: ../train_data_final/images/training/ 
+val: ../train_data_final/images/validation/ 
+
+# num of classes
+nc: 11 
+
+# Classes
+names: ['Red light', 'Green light','Red light straight','Red light left','Red light right','Green light straight','Green light left','Green light right','Stop sign','Speed limit to 80','Crosswalk']
+
+
+ 
+
+
+
